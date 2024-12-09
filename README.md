@@ -10,7 +10,7 @@ When a hemispherical surface is rendered with different lighting conditions:
 
 ![Example Image](images/sphere2.png)
 
-![Example Image](images/sphere\3png)
+![Example Image](images/sphere3png)
 
 For a basic face, this method can be applied to improve the detailing of the surfacial visualization:
 
@@ -29,7 +29,7 @@ Eventually, this can be rendered into a 3D surface:
 
 ![Example Image](images/face3d.png)
 
-By using the **Bas-Relief Ambiguity** we can change the way it gets rendered
+By using the **Bas-Relief Ambiguity** we can change the way it gets rendered in terms of sharpness and flatness
 
 ![Example Image](images/face3d2.png) ![Example Image](images/face3d3.png)
 
