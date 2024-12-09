@@ -10,7 +10,7 @@ When a hemispherical surface is rendered with different lighting conditions:
 
 ![Example Image](images/sphere2.png)
 
-![Example Image](images/sphere3png)
+![Example Image](images/sphere3.png)
 
 For a basic face, this method can be applied to improve the detailing of the surfacial visualization:
 
